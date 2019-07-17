@@ -16,6 +16,8 @@ public class Customer {
 	public void setName(String name) {
 		this.name = name;
 	}
+	
+	// this i s a change for all devs
 
 	public Retailer getRetailer() {
 		return retailer;
